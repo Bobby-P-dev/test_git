@@ -90,5 +90,37 @@ pemeran pendamping
 Belajar algoritma sama aja dengan mengingat kembali alur berfikir yg terstruktur
 
 
+## GIT & GIT BASH
+
+GIT adalah Tools untuk programmer,
+GIT sebagai Version Control System
+
+### Apa itu Version Control System
+
+Tugasnya adalah mencatat setiap perubahan pada File (termasuk code yang kita buat) pada suatu proyek baik dikerjakan secara individu maupun tim.
+
+Git biasanya digunakan oleh para programmer sebagai tempat penyimpanan file pemrograman mereka, karena lebih efektif.
 
 
+Yang di pelajari dalam seminggu ini mengenai github adalah kata perintah dasar seperti berikut:
+
+### git config
+Salah satu perintah git yang paling banyak digunakan adalah git config
+
+### git init
+Perintah ini digunakan untuk membuat repositori baru.
+
+### git add
+Perintah git add bisa digunakan untuk menambahkan file ke index. Contohnya, perintah berikut ii akan menambahkan file bernama temp.
+
+### git clone
+Perintah git clone digunakan untuk checkout repositori. Jia repositori berada di remove server.
+
+### git commit
+Perintah git commit digunakan untuk melakukan commit pada perubahan ke head. Ingat bahwa perubahan apapun yang di-commit tidak akan langsung ke remote repository.
+
+### git status
+Perintah git status menampilkan daftar file yang berubah bersama dengan file yang ingin di tambahkan atau di-commit.
+
+### git push
+git push adalah perintah git dasar lainnya. Push akan mengirimkan perubahan ke master branch dari remote repository yang berhubungan dengan direktori kerja Anda.
