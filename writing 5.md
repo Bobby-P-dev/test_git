@@ -44,4 +44,34 @@ Node.js is an open-source, cross-platform, back-end JavaScript runtime environme
 
 ## Node Js arcithecture
 
-* Single thread
+## Single thread
+Thread dalam ilmu komputer adalah eksekusi menjalankan beberapa tugas atau program secara bersamaan. Setiap unit yang mampu mengeksekusi kode disebut thread.
+Javascript menggunakan konsep single thread, yang berarti hanya memiliki satu tumpukan panggilan yang digunakan untuk menjalankan program.
+
+
+## Build in module Node JS
+
+  * Console
+  
+![Capture](https://user-images.githubusercontent.com/113120327/199062373-916c4d6a-2153-4e61-89d9-fa35511d1b26.JPG)
+
+  * Process
+ ![2](https://user-images.githubusercontent.com/113120327/199062468-6bcb5cf7-97ae-40f4-826c-627f15d42ffc.JPG)
+
+  * Util
+ ![util](https://user-images.githubusercontent.com/113120327/199062566-a4bdc344-55d4-4a50-9a85-0c2187212552.JPG)
+
+  * Events
+ ![events](https://user-images.githubusercontent.com/113120327/199062646-a8e2ad28-19f0-4e7c-9f8c-9b14703920fa.JPG)
+ 
+ 
+ # Express JS
+ 
+ ### Express adalah salah satu package NodeJS yang memungkinkan kita untuk membuat HTTP REST API ataupun aplikasi web dengan mudah.
+ 
+ Dengan Express, kita dapat membuat berbagai hal berikut dengan lebih cepat daripada harus membuatnya secara manual
+ 
+
+
+
+
